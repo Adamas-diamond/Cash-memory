@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG for the software]"
-labels: ''
+labels: bug
 assignees: Adamas-diamond
 
 ---
